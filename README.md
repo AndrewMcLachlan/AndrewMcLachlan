@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewMcLachlan
-- 👀 I’m interested in Azure, C# and .NET
-- 🌱 I’m currently learning as much about Azure as I can 
+- 👀 I’m interested in AI, Azure, C# and .NET
+- 🌱 I’m currently learning about AI/LLMs and prompt engineering
 - 📫 You can reach me at https://www.andrewmclachlan.com
 
 <!---
